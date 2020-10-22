@@ -1,0 +1,45 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Git Assignment <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+##############################################################################
+
+11. Running git config globally                      >> git config --global
+
+##############################################################################
+
+12. git config on current repo. setting              >> git config --local
+
+##############################################################################
+
+13. merge changes into current branch                >> git merge branch_to_be_merge_into_curr 
+
+##############################################################################
+
+14. Remote repo. : Add repository                    >> git remote add remote_name url
+                                                    ex: git remote add origin url
+
+##############################################################################
+
+15. Remote repo. : List named repo.                  >> git remote 
+
+##############################################################################
+
+16. Local copy of remote working repository          >> git clone url
+
+##############################################################################
+
+17. latest versio of running repo.                   >> git pull
+
+##############################################################################
+
+18. How to send local commit to remote repo.         >> git push -u origin master 
+
+##############################################################################
+
+19. How to push all local branchs to remote repo.    >> git push -a
+
+##############################################################################
+
+20. save changes made when they're not in stable to commit them to repos.
+                                                    >> git stash -u
+
+##############################################################################
