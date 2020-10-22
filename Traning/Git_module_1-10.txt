@@ -1,0 +1,48 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Git Assignment <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+##############################################################################
+
+1. Command used to write commit message  >> git commit -m "commit_message"
+
+##############################################################################
+
+2. Command used to create Repository     >> git init
+
+##############################################################################
+
+3. How to delete the branch              >> git branch -d branch_name 
+
+##############################################################################
+
+4. another option merging in git        a>> git checkout branch_tomerge  
+                                        b>> git rebash branch_merge_onto
+
+##############################################################################
+
+5. How to add file in staging area       >> git add file_name.extention 
+
+##############################################################################
+
+6. How to add all file to staging area   >> git add .
+
+##############################################################################
+
+7. How to stage a file                   >> git add file_name.extention
+
+##############################################################################
+
+8. How to check status of working branch >> git status 
+
+##############################################################################
+
+9. create new Branch                     >> git branch branch_name
+   List all remote Branches              >> git branch -r
+   List all local Branches               >> git branch
+   List all the Branchs(Local + remote)  >> git branch -a
+
+##############################################################################
+
+10. Checkout an Existing Branch          >> git chackout branch_name
+    create and checkout the new Branch   >> git checkout -b branch_name
+
+##############################################################################
