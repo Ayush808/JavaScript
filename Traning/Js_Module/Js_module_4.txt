@@ -1,0 +1,17 @@
+Property                 ||        localStorage	                ||          sessionStorage
+--------------------------------------------------------------------------------------------
+1) Initiator Client
+   or server	         ||         Client	                    ||              Client
+
+2) Expiry	             ||         Forever(until we delete)    ||              On tab close
+
+3) Persistent across
+   browser sessions	     ||         Yes	                        ||              No
+
+4) Sent to server
+   with every
+   HTTP request	         ||         No	                        ||              No
+
+5) Capacity (per domain) ||        5MB	                        ||              5MB
+
+6) Accessibility		 ||        Any window	                ||              Same tab
